@@ -31,4 +31,6 @@ This project demonstrates how to control a DC motor's speed and direction using 
     * PC0 → Potentiometer (ADC Input for Speed Control)
     * PD5 → Direction Button 1
     * PD6 → Direction Button 2
-
+      
+#  Motor Control Circuit
+![Motor Control Circuit](image/20250215_172510.jpg)
